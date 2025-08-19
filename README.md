@@ -36,11 +36,20 @@ The front-end is built using **HTML, CSS, and Bootstrap**, offering a simple int
 
 **Front End Pages:**
 
-- **Homepage:** Overview of the application and instructions for prediction.  
+- **Homepage:**
+
+  Overview of the application and instructions for prediction.
+  
   ![Homepage](images/homepage.png)
-- **Prediction Page:** Input form for medical parameters and button to predict.  
+- **Prediction Page:**
+
+  Input form for medical parameters and button to predict.
+  
   ![Prediction Page](images/prediction.png)
-- **Results Page:** Displays prediction results (Diabetic/Non-Diabetic).  
+- **Results Page:**
+
+  Displays prediction results (Diabetic/Non-Diabetic).
+  
   ![Results Page](images/results.png)
 
 ---
